@@ -39,7 +39,6 @@
 ||teamspeak.com^
 ||telegram.org^
 ||threads.net^
-||tiktok.com^
 ||tinder.com^
 ||truthsocial.com^
 ||tumblr.com^
@@ -52,42 +51,6 @@
 ||xiaohongshu.com^
 ||xooloo.com^
 ||mail.yahoo.com^
-! --- Facebook (Extensions Régionales) ---
-||facebook.fr^
-||facebook.be^
-||facebook.ca^
-||facebook.co.uk^
-||facebook.de^
-||facebook.es^
-||facebook.it^
-||facebook.nl^
-||facebook.ch^
-||facebook.org^
-! --- Facebook (Infrastructure, Traqueurs & CDN) ---
-! facebook.net est CRITIQUE : héberge le pixel "fbevents.js" et "connect.facebook.net"
-||facebook.net^
-||fb.com^
-||fb.me^
-||fb.gg^
-||fbsbx.com^
-||fbcdn.net^
-||fbcdn.com^
-||tfbnw.net^
-! --- Services liés à Facebook (Messenger & Pubs) ---
-||messenger.com^
-||m.me^
-||atdmt.com^
-! --- TikTok (Extensions & Infrastructure) ---
-||tiktok.com^
-||tiktokv.com^
-||tiktokcdn.com^
-||tiktokmusic.com^
-||tiktokcdn.cn^
-||musical.ly^
-||byteoversea.com^
-||bytegecko.com^
-||bytedance.com^
-||douyin.com^
 !
 ! CAREER
 !
@@ -126,6 +89,7 @@
 ||siriusxm.com^
 ||sonos.com^
 ||spotify.com^
+||spotify.net^
 ||tidal.com^
 !
 ! GAMING
@@ -176,6 +140,34 @@
 ||lavenir.net^
 ||rtl.be^
 ||7sur7.be^
+||lameuse.be^
+||lanouvellegazette.be^
+||lacapitale.be^
+||cinetelerevue.be^
+||telesatellite.com^
+||leparisien.fr^
+||maxifoot.fr^
+||purepeople.com^
+||voici.fr^
+||closermag.fr^
+||linternaute.com^
+||journaldesfemmes.fr^
+||francesoir.fr^
+||aufeminin.com^
+||valeursactuelles.com^
+||causeur.fr^
+||atlantico.fr^
+||bvoltaire.fr^
+||cnews.fr^
+||sudradio.fr^
+||lefigaro.fr^
+||public.fr^
+||gala.fr^
+||telestar.fr^
+||programme-tv.net^
+||melty.fr^
+||buzzfeed.fr^
+||legorafi.fr^
 !
 ! SHOP
 !
@@ -211,7 +203,6 @@
 !
 ! TOOLS
 !
-||apple.com^
 ||bing.com^
 ||operabrowser.com^
 ||yahoo.com^
@@ -294,5 +285,71 @@
 ||voot.com^
 ||virginmedia.com^
 ||vooplus.be^
-
 ||zdf.de^
+!
+! PERSO
+!
+! --- Facebook (Extensions Régionales) ---
+||facebook.fr^
+||facebook.be^
+||facebook.ca^
+||facebook.co.uk^
+||facebook.de^
+||facebook.es^
+||facebook.it^
+||facebook.nl^
+||facebook.ch^
+||facebook.org^
+! --- Facebook (Infrastructure, Traqueurs & CDN) ---
+! facebook.net est CRITIQUE : héberge le pixel "fbevents.js" et "connect.facebook.net"
+||facebook.net^
+||fb.com^
+||fb.me^
+||fb.gg^
+||fbsbx.com^
+||fbcdn.net^
+||fbcdn.com^
+||tfbnw.net^
+! --- Services liés à Facebook (Messenger & Pubs) ---
+||messenger.com^
+||m.me^
+||atdmt.com^
+! --- TikTok (Extensions & Infrastructure) ---
+||tiktok.com^
+||tiktokv.com^
+||tiktokcdn.com^
+||tiktokmusic.com^
+||tiktokcdn.cn^
+||musical.ly^
+||byteoversea.com^
+||bytegecko.com^
+||bytedance.com^
+||douyin.com^
+! --- Apple (Services, Contenu & Cloud) ---
+||apple.com^
+||icloud.com^
+||itunes.com^
+||applemusic.com^
+||appstore.com^
+||applepay.com^
+||apple-mapkit.com^
+||apple-dns.net^
+||apple-cloudkit.com^
+||apple-cloud.com^
+||me.com^
+! --- Apple (Infrastructure et CDN) ---
+||akamaized.net^
+||cdn-apple.com^
+||aaplimg.com^
+||mesu.apple.com^
+||gs-loc.apple.com^
+! --- GOOGLE (Traqueurs, Analytics & Services) ---
+||google-analytics.com^
+||googletagmanager.com^
+||googlesyndication.com^
+||doubleclick.net^
+||googletagservices.com^
+||2mdn.net^
+||g.doubleclick.net^
+||googleadservices.com^
+
