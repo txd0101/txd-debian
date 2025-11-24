@@ -20,13 +20,17 @@
 ||gab.com^
 ||gravatar.com^
 ||instagram.com^
+||instagr.am^
+||cdninstagram.com^
 ||kinzoo.com^
 ||kwai.com^
 ||line.me^
 ||linkedin.com^
+||licdn.com^
+||linkedin.cn^
+||lmsin.net^
 ||joinmastodon.org^
 ||messenger.com^
-||outlook.com^
 ||mutual.app^
 ||nextdoor.com^
 ||okcupid.com^
@@ -40,6 +44,10 @@
 ||telegram.org^
 ||threads.net^
 ||tinder.com^
+||gotinder.com^
+||mtchd.net^
+||match.com^
+||hinge.co^
 ||truthsocial.com^
 ||tumblr.com^
 ||vk.com^
@@ -48,6 +56,10 @@
 ||whatsapp.com^
 ||wire.com^
 ||x.com^
+||twitter.com^
+||t.co^
+||twimg.com^
+||periscope.tv^
 ||xiaohongshu.com^
 ||xooloo.com^
 ||mail.yahoo.com^
@@ -380,4 +392,5 @@
 ||mod.uk^
 ||gc.ca^
 ||gov.au^
+
 
