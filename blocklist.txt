@@ -352,4 +352,32 @@
 ||2mdn.net^
 ||g.doubleclick.net^
 ||googleadservices.com^
+! GOVERNMENT / ESPIONNAGE
+||cia.gov^
+||nsa.gov^
+||fbi.gov^
+||justice.gov^
+||dni.gov^
+||dhs.gov^
+||dia.mil^
+||defense.gov^
+||cisa.gov^
+||ic.gov^
+||dod.mil^
+||irs.gov^
+||treasury.gov^
+||ir^
+||kp^
+||gov.ru^
+||kremlin.ru^
+||mil.ru^
+||rt.com^
+||sputniknews.com^
+||gov.cn^
+||xinhuanet.com^
+||cctv.com^
+||gov.uk^
+||mod.uk^
+||gc.ca^
+||gov.au^
 
