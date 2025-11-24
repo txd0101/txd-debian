@@ -15,7 +15,6 @@
 ||discord.com^
 ||douyin.com^
 ||element.io^
-||facebook.com^
 ||fediverse.com^
 ||gmx.com^
 ||gab.com^
@@ -53,6 +52,42 @@
 ||xiaohongshu.com^
 ||xooloo.com^
 ||mail.yahoo.com^
+! --- Facebook (Extensions Régionales) ---
+||facebook.fr^
+||facebook.be^
+||facebook.ca^
+||facebook.co.uk^
+||facebook.de^
+||facebook.es^
+||facebook.it^
+||facebook.nl^
+||facebook.ch^
+||facebook.org^
+! --- Facebook (Infrastructure, Traqueurs & CDN) ---
+! facebook.net est CRITIQUE : héberge le pixel "fbevents.js" et "connect.facebook.net"
+||facebook.net^
+||fb.com^
+||fb.me^
+||fb.gg^
+||fbsbx.com^
+||fbcdn.net^
+||fbcdn.com^
+||tfbnw.net^
+! --- Services liés à Facebook (Messenger & Pubs) ---
+||messenger.com^
+||m.me^
+||atdmt.com^
+! --- TikTok (Extensions & Infrastructure) ---
+||tiktok.com^
+||tiktokv.com^
+||tiktokcdn.com^
+||tiktokmusic.com^
+||tiktokcdn.cn^
+||musical.ly^
+||byteoversea.com^
+||bytegecko.com^
+||bytedance.com^
+||douyin.com^
 !
 ! CAREER
 !
@@ -259,4 +294,5 @@
 ||voot.com^
 ||virginmedia.com^
 ||vooplus.be^
+
 ||zdf.de^
