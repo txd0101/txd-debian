@@ -1,5 +1,7 @@
 ! BLOCKLIST
 !
+||privacy-center.org^
+||opecloud.com^
 !
 ! SOCIAL
 !
@@ -392,5 +394,6 @@
 ||mod.uk^
 ||gc.ca^
 ||gov.au^
+
 
 
