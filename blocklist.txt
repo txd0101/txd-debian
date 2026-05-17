@@ -399,20 +399,28 @@
 ||copyright.gov^
 ||copyrightalliance.org^
 ||alliance4creativity.com^
-! --- France (Arcom / ex-Hadopi & prestataires) ---
+||copia.is^
+||iipa.com^
+! --- FR/BE ---
 ||arcom.fr^
 ||hadopi.fr^
 ||tmg.eu^
 ||tridentmediaguard.com^
 ||alpa.paris^
 ||sacem.fr^
-! --- Belgique ---
+||scam.fr^
+||adami.fr^
 ||baaf.be^
 ||sabam.be^
+||anti-piracy.nl^
+||baf.be^
 ! --- Europe & Autres ---
 ||antipiracy.eu^
 ||fact-uk.org.uk^
 ||brein.nl^
 ||gvua.de^
+||aapa.eu^
+||alliance-antipiracy.org^
+||fact.uk.com^
 
 
