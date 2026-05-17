@@ -350,7 +350,6 @@
 ||apple-cloud.com^
 ||me.com^
 ! --- Apple (Infrastructure et CDN) ---
-||akamaized.net^
 ||cdn-apple.com^
 ||aaplimg.com^
 ||mesu.apple.com^
