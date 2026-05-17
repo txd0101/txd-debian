@@ -102,8 +102,6 @@
 ||pandora.com^
 ||siriusxm.com^
 ||sonos.com^
-||spotify.com^
-||spotify.net^
 ||tidal.com^
 !
 ! GAMING
@@ -394,6 +392,28 @@
 ||mod.uk^
 ||gc.ca^
 ||gov.au^
-
+! ANTI-P2P / COPYRIGHT SURVEILLANCE
+! --- International & USA ---
+||mpaa.org^
+||riaa.com^
+||dmca.com^
+||copyright.gov^
+||copyrightalliance.org^
+||alliance4creativity.com^
+! --- France (Arcom / ex-Hadopi & prestataires) ---
+||arcom.fr^
+||hadopi.fr^
+||tmg.eu^
+||tridentmediaguard.com^
+||alpa.paris^
+||sacem.fr^
+! --- Belgique ---
+||baaf.be^
+||sabam.be^
+! --- Europe & Autres ---
+||antipiracy.eu^
+||fact-uk.org.uk^
+||brein.nl^
+||gvua.de^
 
 
